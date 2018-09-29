@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorProgress">#3046b3</color>
+    <color name="colorPrimary">#3e5ae6</color>
+    <color name="colorPrimaryDark">#3046b3</color>
+    <color name="colorAccent">#E8434E</color>
+    <color name="ActionBarColor">#393E41</color>
+    <color name="colorWhite">#F9F9F9</color>
+    <color name="transparent">#00000000</color>
+</resources>
